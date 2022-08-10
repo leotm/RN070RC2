@@ -1996,6 +1996,7 @@ __metadata:
     metro-react-native-babel-preset: ^0.72.0
     react: 18.1.0
     react-native: 0.70.0-rc.2
+    react-native-safe-area-context: ^4.3.1
     react-test-renderer: 18.1.0
   languageName: unknown
   linkType: soft
@@ -7603,6 +7604,16 @@ __metadata:
   version: 0.70.1
   resolution: "react-native-gradle-plugin@npm:0.70.1"
   checksum: 58df03d9d2124371c90a36741e3442f94fd8806e73e9ccf3d4b13b4470c66e8c670ddda5fd53de8ef52eaef23215c5884020f5e65eb8b512481cde4bac664fcc
+  languageName: node
+  linkType: hard
+
+"react-native-safe-area-context@npm:^4.3.1":
+  version: 4.3.1
+  resolution: "react-native-safe-area-context@npm:4.3.1"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 34a4bc60448b0bc6bfa3e952b00a12754cc30ce48c07540a6618179f2c170aa2db0919ac452376322778ed34c4c56fc5d40e17c2b74157c9a134d2b766143ca3
   languageName: node
   linkType: hard
 
